@@ -11,7 +11,7 @@ loop
  ;=============================================
  ;REPLACE THE FOLLOWING WITH YOUR OWN DIRECTORY
  ;=============================================
-	ImageSearch, foundX, foundY, 0, 0, A_ScreenWidth, A_ScreenHeight-49, *1 *w27 *h27 F:\My Images\redTank.jpg
+  ImageSearch, foundX, foundY, 0, 0, A_ScreenWidth, A_ScreenHeight-49, *1 *w27 *h27 F:\My Images\RedTank.jpg
   if (ErrorLevel == 0){
     MouseClick,left,foundX,foundY,2
   }
