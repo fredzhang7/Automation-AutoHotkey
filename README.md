@@ -2,7 +2,6 @@
 
 #### Description
 - Simple keyboard, screen, and mouse manipulations using Auto Hotkey, written entirely in C#.
-- Screen manipulations don't work too well on Discord.
 
 #### IMPORTANT
 - You must have Auto Hotkey installed. Right click in any path directory to create a new script.
