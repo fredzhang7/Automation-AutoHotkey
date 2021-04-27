@@ -1,4 +1,4 @@
-#Gmail_Sign-up_Automation
+#Gmail_Sign-up_Automation#
 
 *You must have Auto Hotkey installed. Right click in a Path directory to create a new script. After you do the following and ctrl+s, double left click on the script to run it.
 
