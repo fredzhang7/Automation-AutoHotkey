@@ -1,6 +1,6 @@
 # Gmail Sign-up Automation #
 
-You must have Auto Hotkey installed. Right click in a Path directory to create a new script. After you do the following and ctrl+s, double left click on the script to run it.
+After you do the following and ctrl+s, double left click on the script to run it.
 
 1. Write your own phone numbers and main email down in lines five and six, inside the quotation marks.
 
