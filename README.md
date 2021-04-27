@@ -4,4 +4,4 @@ Simple keyboard, screen, and mouse manipulations using Auto Hotkey, written enti
 
 All script below requires you to press a key to run the script, and a key to pause the script. Read the README.md in each separate file!!!
 
-If you run into any problems, email me at `freddyzhang666@gmail.com`
+If you run into any problems, please email me at `freddyzhang666@gmail.com`. Thank you for visiting my repository =D
