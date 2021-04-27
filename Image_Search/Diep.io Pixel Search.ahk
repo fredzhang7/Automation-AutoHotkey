@@ -17,7 +17,6 @@ loop
 
 if (((testx > x-57) && (testx < x+70)) && ((testy > y-57) && (testy < y+70)))
 {
-	mousemove, x+27, y+27
-	MouseClick,left,x+27,y+27,2,0,,
+	MouseClick,left,x+27,y+27,2
 }
 }
