@@ -5,9 +5,9 @@ CoordMode,Mouse,Screen
 Pause::Pause
 #d::Pause  ;press windows+d to pause/delay the script then press it again to continue
 
-;============================================================================================
-;Does not work if there are too many tanks or the tanks are moving super fast relative to you
-;============================================================================================
+;===========================================================================================
+;Does not work well for moving objects. I used searching for Diep.io red tanks as an example
+;===========================================================================================
 
 #s::
 loop
