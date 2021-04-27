@@ -2,9 +2,14 @@
 CoordMode,Pixel,Screen
 CoordMode,Mouse,Screen
 
-CopyThoseCharacters := "Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming Spamming"
+CopyThoseCharacters := "Hey there! Don't forget to do your homework!"
 
-customizeIntervals := 5000      ;this is measured in miliseconds (ms)
+; all below are measured in ms
+seconds := 1000
+minutes := 60000
+hours := 60 * 60000
+customizeIntervals := 2 * hours + 30 * minutes      
+
 
 #s::
 MouseMove 524, 977
