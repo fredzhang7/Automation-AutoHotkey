@@ -1,4 +1,4 @@
-# Automation_Using_C#
+# Automation Using C#
 
 Simple keyboard, screen, and mouse manipulations using Auto Hotkey, written entirely in C#. Screen manipulations don't work too well on Discord.
 
