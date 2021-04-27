@@ -21,4 +21,3 @@
 
 #### Other Repositories
 - https://github.com/WeiqianFredZhang/Discord_Mini_Service_Bots
-- https://glitch.com/edit/#!/freddy-arrasio-4th-edition
