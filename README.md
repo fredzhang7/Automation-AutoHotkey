@@ -12,7 +12,7 @@
 #### File Paths on Windows
 - Comes in the form `Disk:\Folder One\Folder Two\fileName.fileExtension`
 - For example, F:\Fred\Rick Roll.gif, C:\Program Files\Rick Roll.ahk
-- Don't put any symbols found here in your file name: https://www.autohotkey.com/docs/Hotkeys.htm. Otherwise AHK recognizes it as a shortcut. However, when you send a message containing the symbol, you can write Send {!}, and this properly sends an exclamation mark.
+- Don't put any symbols found here in your file name: https://www.autohotkey.com/docs/Hotkeys.htm. Otherwise AHK recognizes it as a hotkey. However, when you send a message containing the symbol, you can write Send {!}, and this properly sends an exclamation mark.
 
 #### Author
 - Weiqian (Fred) Zhang from Lord Byng Secondary School
