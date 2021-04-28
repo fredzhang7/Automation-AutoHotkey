@@ -20,3 +20,4 @@
 
 #### Other Repositories
 - https://github.com/WeiqianFredZhang/Discord_Mini_Service_Bots
+- https://github.com/WeiqianFredZhang/Grade_7_Learning_With_Processing
