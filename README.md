@@ -19,5 +19,5 @@
 ---
 
 #### Other Repositories
-- https://github.com/WeiqianFredZhang/My-Java-Script-Projects
+- https://github.com/WeiqianFredZhang/Some-Java-Script-Projects
 - https://github.com/WeiqianFredZhang/Grade_7_Learning_With_Processing
