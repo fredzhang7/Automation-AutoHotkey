@@ -1,7 +1,7 @@
-# Automation Using C#
+# Automation Using AHK
 
 #### Description
-- Simple keyboard, screen, and mouse manipulations using Auto Hotkey, written entirely in C#.
+- Simple keyboard, screen, and mouse manipulations using Auto Hotkey.
 
 #### IMPORTANT
 - You must have Auto Hotkey installed. Right click in any path directory to create a new script.
