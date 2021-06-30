@@ -4,6 +4,7 @@
 - Simple keyboard, screen, and mouse manipulations using Auto Hotkey.
 
 #### IMPORTANT
+- Those projects are public, but please don't republish them!
 - You must have Auto Hotkey installed. Right click in any path directory to create a new script.
 - All script below requires you to press Windows + s to run the script, and Windows + d to delay/pause the script. Read the README.md in each separate file!!!
 - If you run into any problems, please email me at `freddyzhang666@gmail.com`. Thank you for visiting my repository 😊 Enjoy!
