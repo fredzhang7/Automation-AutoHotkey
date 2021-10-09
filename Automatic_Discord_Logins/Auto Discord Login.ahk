@@ -6,10 +6,11 @@ Pause::Pause
 #d::Pause  ;press windows+d to delay/pause the script; press it again to continue
 
 numberOfAlts = 5     ;replace with the number of alt accounts you have
+altCount = numberOfAlts
 
 #s::
 lineNumber := 1
-loop, numberOfAlts{
+while (altCount > 0) {
  Sleep 700
  if (A_Index == 1){
     Send ^+n
@@ -68,5 +69,6 @@ loop, numberOfAlts{
     MsgBox, All accounts are logged in{!}
     return
  }
+ altCount -= 1
 }
 Exit
