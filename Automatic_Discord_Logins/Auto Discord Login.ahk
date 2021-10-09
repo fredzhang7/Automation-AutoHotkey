@@ -43,7 +43,7 @@ while (altCount > 0) {
  Send %loginInfo%{Enter}
  lineNumber += 1
  Sleep 4500
- if(A_Index == 1){
+ if(altCount == 1){
     MouseClick, left, 1896, 155, 1
     Sleep 200
     MouseClick, left, 1896, 155, 1
@@ -52,7 +52,7 @@ while (altCount > 0) {
     MouseClick, left, 1913, 142, 1
     Sleep 500
  }
- if(A_Index < numberOfAlts){
+ if(altCount < numberOfAlts){
     Send ^+n
     Sleep 700
     Send discord.com/channels/@me{Enter}
