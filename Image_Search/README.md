@@ -2,7 +2,7 @@
 
 #### Pixel Search
 - Useful for identifying a color on your screen in RGB or HEX
-- Apologizes if the previous one didn't work
+- Apologizes if the previous version didn't work
 
 #### Image Search
 - It's less accurate than pixel searches if you know exactly what the pixels colors are.
