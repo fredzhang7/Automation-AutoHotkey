@@ -35,7 +35,6 @@ Pause::Pause
                 Send {lbutton up}
                 MouseClick, left, tankX, tankY, 1
             }
-            
         } else {
             PixelSearch, bigTriX, bigTriY, 0, 98, width, height, 0xCC66BB, 1, RGB Fast
             if (ErrorLevel == 0) {
