@@ -38,19 +38,17 @@ Pause::Pause
                     MouseClick, left, attkTriX, attkTriY, 1
                 } else {
                     PixelSearch, pentagonX, pentagonY, 0, 98, width, height, 0x768DFC, 1, RGB Fast                    
-                    if (ErrorLevel == 0 and pentaDist < 6) {
+                    if (ErrorLevel == 0 and gridDistance(pentagonX) < 6) {
                         Send {lbutton up}
                         MouseClick, left, pentagonX, pentagonY + 20, 1
                     } else {
                         PixelSearch, triangleX, triangleY, 0, 98, width, height, 0xFC7677, 1, RGB Fast
-                            triDist := gridDistance(triangleX)
-                        if (ErrorLevel == 0 and triDist < 6) {
+                        if (ErrorLevel == 0 and gridDistance(triangleX) < 6) {
                             Send {lbutton up}
                             MouseClick, left, triangleX, triangleY, 1
                         } else {
                             PixelSearch, squareX, squareY, 0, 98, width, height, 0xFFE869, 1, RGB Fast
-                                squareDist := gridDistance(squareX)
-                            if (ErrorLevel == 0 and squareDist < 6) {
+                            if (ErrorLevel == 0 and gridDistance(squareX) < 6) {
                                 Send {lbutton up}
                                 MouseClick, left, squareX, squareY, 1
                             } else {
@@ -73,3 +71,4 @@ Pause::Pause
     }
     
     ; LOOP, SEND, and KeyPress to control the tank don't work! Diep.io only allows "hard-drive" key presses
+    
